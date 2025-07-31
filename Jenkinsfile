@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/yourusername/SimpleApi.git'
+                git 'https://github.com/naruba200/API-for-testing-CI-CD.git'
             }
         }
 
