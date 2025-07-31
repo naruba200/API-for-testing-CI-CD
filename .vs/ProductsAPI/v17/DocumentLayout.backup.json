@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Learning stuff\\ProductsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5094829-C1BC-4FBB-9C7A-DC30162F1F27}|ProductsAPI\\ProductsAPI.csproj|g:\\learning stuff\\productsapi\\productsapi\\productsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5094829-C1BC-4FBB-9C7A-DC30162F1F27}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\productsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5094829-C1BC-4FBB-9C7A-DC30162F1F27}|ProductsAPI\\ProductsAPI.csproj|g:\\learning stuff\\productsapi\\productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5094829-C1BC-4FBB-9C7A-DC30162F1F27}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5094829-C1BC-4FBB-9C7A-DC30162F1F27}|ProductsAPI\\ProductsAPI.csproj|g:\\learning stuff\\productsapi\\productsapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5094829-C1BC-4FBB-9C7A-DC30162F1F27}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5094829-C1BC-4FBB-9C7A-DC30162F1F27}|ProductsAPI\\ProductsAPI.csproj|g:\\learning stuff\\productsapi\\productsapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5094829-C1BC-4FBB-9C7A-DC30162F1F27}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5094829-C1BC-4FBB-9C7A-DC30162F1F27}|ProductsAPI\\ProductsAPI.csproj|g:\\learning stuff\\productsapi\\productsapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5094829-C1BC-4FBB-9C7A-DC30162F1F27}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "G:\\Learning stuff\\ProductsAPI\\ProductsAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "G:\\Learning stuff\\ProductsAPI\\ProductsAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductsAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T03:35:17.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Learning stuff\\ProductsAPI\\ProductsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Program.cs",
+              "ToolTip": "G:\\Learning stuff\\ProductsAPI\\ProductsAPI\\Program.cs",
+              "RelativeToolTip": "ProductsAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T03:34:16.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "G:\\Learning stuff\\ProductsAPI\\ProductsAPI\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Services\\ProductService.cs",
+              "ToolTip": "G:\\Learning stuff\\ProductsAPI\\ProductsAPI\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductsAPI\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T03:33:16.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "G:\\Learning stuff\\ProductsAPI\\ProductsAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Models\\Product.cs",
+              "ToolTip": "G:\\Learning stuff\\ProductsAPI\\ProductsAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ProductsAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T03:32:30.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsAPI",
+              "DocumentMoniker": "G:\\Learning stuff\\ProductsAPI\\ProductsAPI\\ProductsAPI.csproj",
+              "RelativeDocumentMoniker": "ProductsAPI\\ProductsAPI.csproj",
+              "ToolTip": "G:\\Learning stuff\\ProductsAPI\\ProductsAPI\\ProductsAPI.csproj",
+              "RelativeToolTip": "ProductsAPI\\ProductsAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-31T03:31:55.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
